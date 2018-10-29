@@ -1,0 +1,2 @@
+#!/bin/sh
+exec electron2 /opt/forticlient/gui/FortiClient-linux-x64/resources/app.asar "$@"
